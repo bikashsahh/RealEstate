@@ -72,7 +72,7 @@ This project is a full-stack web application developed  using the MERN stack (Mo
 - **User Authentication:** Users can sign up, log in, and log out securely. Passwords are hashed for security.
 - **Google Login:** Users can sign up and log in using their gmail.
 
-  ![](client/public/assets/auth.png)
+  ![](client/public/assets/booked)
 
 - **Search Listings:** Users can search for accommodations.
 
