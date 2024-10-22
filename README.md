@@ -1,4 +1,4 @@
-Deploy project LINK ----https://stayhubbb.vercel.app/
+Deploy project LINK ----https://ApnaNiwas.vercel.app/
 
 ## Overview
 
@@ -72,23 +72,24 @@ This project is a full-stack web application developed  using the MERN stack (Mo
 - **User Authentication:** Users can sign up, log in, and log out securely. Passwords are hashed for security.
 - **Google Login:** Users can sign up and log in using their gmail.
 
-  ![](client/public/assets/booked)
+  ![](client/public/assets/login.png)
+  ![](client/public/assets/register.png)
 
 - **Search Listings:** Users can search for accommodations.
 
-  ![](client/public/assets/search.png)
+  ![](client/public/assets/header.png)
 
 - **View Listings:** Users can view detailed information about each accommodation, including photos, descriptions, amenities.
 
-  ![](client/public/assets/view.png)
+  ![](client/public/assets/home.png)
 
 - **Make Bookings:** Authenticated users can book accommodations for specific dates.
 
-  ![](client/public/assets/book.png)
+  ![](client/public/assets/booked.png)
 
-- **Manage Listings:** Hosts can create, edit, and delete their listings.
+- **Profile View:** Hosts can see their profile.
 
-  ![](client/public/assets/manage.png)
+  ![](client/public/assets/profile.png)
 
 - **Responsive Design:** The application is designed to be responsive and work seamlessly across different devices.
 
